@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056473803873",
+    "firebase_url": "https://my-test-project-8eb44.firebaseio.com",
+    "project_id": "my-test-project-8eb44",
+    "storage_bucket": "my-test-project-8eb44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056473803873:android:030568d11f3fdd47",
+        "android_client_info": {
+          "package_name": "com.lydia.intagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056473803873-3jq0t01hdqpsliiunmi118qaoo004ac0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lydia.intagramclone",
+            "certificate_hash": "55d9df1910b7aa04e31d9544afb3f2d6459d2182"
+          }
+        },
+        {
+          "client_id": "1056473803873-620m17o8led5f8ip0fk2j4tv9oq0c8b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYojsYAPt-qkhUATFSLu6VKh5E3m02pj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056473803873-620m17o8led5f8ip0fk2j4tv9oq0c8b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

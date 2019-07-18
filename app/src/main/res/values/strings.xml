@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">intagramclone</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="email">email</string>
+    <string name="not_a_member">not_a_member</string>
+    <string name="Not_a_Member">Not a Member?</string>
+    <string name="Already_a_Member">Already a member</string>
+</resources>
